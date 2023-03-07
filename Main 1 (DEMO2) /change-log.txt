@@ -1,0 +1,19 @@
+Date: 4th October 2019
+
+==================
+Version: 1.1
+==================
+
+CHANGE-LOG
+==================
+- Update: Resolve image bug
+
+FILE CHANGED
+==================
+- ckav-main.css
+
+FILE ADDED
+==================
+- No Changes
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
